@@ -16,6 +16,7 @@ use Illuminate\Database\Eloquent\Builder;
  * - completed: Status de conclusão da tarefa (boolean)
  * - created_at: Data e hora de criação
  * - updated_at: Data e hora da última atualização
+ * -
  */
 
 
